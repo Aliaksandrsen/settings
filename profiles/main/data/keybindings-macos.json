@@ -1,0 +1,15 @@
+// Empty
+[
+  {
+    "key": "ctrl+[Backquote]",
+    "command": "workbench.action.terminal.toggleTerminal"
+  },
+  {
+    "key": "ctrl+shift+b",
+    "command": "workbench.action.toggleAuxiliaryBar"
+  },
+  {
+    "key": "shift shift",
+    "command": "workbench.action.showCommands"
+  }
+]

@@ -1,0 +1,191 @@
+{
+  // настройка если подключить stylelint (поменять)
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "atlascode.bitbucket.enabled": true,
+  "atlascode.jira.enabled": false,
+  // "[nginx]": {
+  //   "editor.defaultFormatter": "ahmadalli.vscode-nginx-conf"
+  // },
+  // "[prisma]": {
+  //   "editor.defaultFormatter": "Prisma.prisma"
+  // },
+  "breadcrumbs.symbolPath": "off",
+  "cSpell.language": "en,ru",
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.showExecutionMessage": false,
+  "commentTranslate.targetLanguage": "ru",
+  "editor.bracketPairColorization.enabled": true,
+  // форматер SQL
+  // "[sql]": {
+  //   "editor.defaultFormatter": "bradymholt.pgformatter"
+  // },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+    // "source.organizeImports": true
+  },
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "'Fira Code', 'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 13,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.inlineSuggest.enabled": true,
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": false,
+  "editor.smoothScrolling": true,
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "editor.unicodeHighlight.allowedLocales": {
+    "_os": false,
+    "_vscode": false
+  },
+  "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?_",
+  "eslint.packageManager": "npm",
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "extensions.ignoreRecommendations": true,
+  "files.eol": "\n",
+  // git-graph
+  "git-graph.commitDetailsView.location": "Docked to Bottom",
+  "git-graph.date.format": "ISO Date & Time",
+  "git-graph.date.type": "Commit Date",
+  "git-graph.graph.colours": [
+    "#255db7",
+    "#bd461d",
+    "#f7a438",
+    "#2F7556",
+    "#50479f",
+    "#00d292",
+    "#485111",
+    "#ffffff",
+    "#f798e8",
+    "#85d900",
+    "#6f24d6"
+  ],
+  "git-graph.graph.style": "angular",
+  "git-graph.repository.commits.fetchAvatars": true,
+  "git-graph.tabIconColourTheme": "grey",
+  "git.confirmSync": false,
+  "gitlens.views.branches.pullRequests.enabled": false,
+  "gitlens.views.branches.pullRequests.showForBranches": false,
+  "gitlens.views.branches.showBranchComparison": false,
+  "gitlens.views.showRelativeDateMarkers": false,
+  "gitlens.views.stashes.files.layout": "list",
+  "http.systemCertificates": false,
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  // jest не подключается по умолчанию
+  "jest.autoRun": {
+    "onStartup": []
+  },
+  "json.maxItemsComputed": 50000,
+  "livePreview.openPreviewTarget": "External Browser",
+  "liveServer.settings.port": 5501,
+  "peacock.affectTitleBar": false,
+  "redhat.telemetry.enabled": true,
+  "remote.SSH.remotePlatform": {
+    "host-in-ssh-config-or-fqdn": "windows",
+    "VirtualAdapter": "linux",
+    "167.235.71.146": "linux",
+    "NetworkShareW(Debian)": "linux",
+    "VirtualAdapter(Debian)": "linux",
+    "NetworkShareW(Ubuntu)": "linux",
+    "senkevich.ml(167.235.71.146)": "linux",
+    "VirtualAdapter(Ubuntu)": "linux"
+  },
+  "remote.SSH.remoteServerListenOnSocket": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "tabnine.experimentalAutoImports": true,
+  "tabster.skipPinnedTabs": false,
+  "terminal.integrated.autoReplies": {
+    "[oh-my-zsh] Would you like to update? [Y/n]": "Y\r"
+  },
+  "terminal.integrated.cursorBlinking": true,
+  // "js/ts.implicitProjectConfig.checkJs": true,
+  // "window.nativeTabs": true,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  // "git.mergeEditor": true,
+  // "window.commandCenter": true
+  "terminal.integrated.shellIntegration.enabled": true,
+  "terminal.integrated.smoothScrolling": true,
+  "turboConsoleLog.addSemicolonInTheEnd": true,
+  "turboConsoleLog.delimiterInsideMessage": "",
+  "turboConsoleLog.includeFileNameAndLineNum": false,
+  "turboConsoleLog.logMessagePrefix": "",
+  "turboConsoleLog.quote": "'",
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  // "typescript.locale": "ru",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.suggest.paths": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.restoreFullscreen": true,
+  "window.title": "${activeEditorMedium}${separator}",
+  "workbench.colorCustomizations": {
+    "[Default Dark+]": {
+      "activityBar.foreground": "#ebdbb2",
+      "breadcrumb.focusForeground": "#ebdba1aa",
+      "breadcrumb.foreground": "#ebdbb2",
+      "sideBar.foreground": "#ebdbb2bd",
+      "statusBar.background": "#00000000",
+      "statusBar.foreground": "#ebdbb2",
+      "tab.activeForeground": "#ebdba1aa",
+      "tab.inactiveForeground": "#ebdbb2",
+      "terminal.ansiBlack": "#282828",
+      "terminal.ansiBlue": "#83A598",
+      "terminal.ansiBrightBlack": "#665C54",
+      "terminal.ansiBrightBlue": "#83A598",
+      "terminal.ansiBrightCyan": "#8EC07C",
+      "terminal.ansiBrightGreen": "#B8BB26",
+      "terminal.ansiBrightMagenta": "#D3869B",
+      "terminal.ansiBrightRed": "#FB4934",
+      "terminal.ansiBrightWhite": "#FBF1C7",
+      "terminal.ansiBrightYellow": "#FABD2F",
+      "terminal.ansiCyan": "#8EC07C",
+      "terminal.ansiGreen": "#B8BB26",
+      "terminal.ansiMagenta": "#D3869B",
+      "terminal.ansiRed": "#FB4934",
+      "terminal.ansiWhite": "#D5C4A1",
+      "terminal.ansiYellow": "#FABD2F",
+      "terminal.background": "#282828",
+      "terminal.foreground": "#D5C4A1",
+      "terminalCursor.background": "#D5C4A1",
+      "terminalCursor.foreground": "#D5C4A1"
+    }
+  },
+  "workbench.editor.pinnedTabSizing": "shrink",
+  "workbench.layoutControl.type": "both",
+  "workbench.list.smoothScrolling": true,
+  "workbench.startupEditor": "none",
+  "yaml.schemas": {
+    "file:///home/aliaksandr/.vscode-server/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "git-graph.repository.showRemoteBranches": false,
+  "gitlens.views.branches.branches.layout": "list",
+  "terminal.integrated.scrollback": 5000,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "window.commandCenter": true,
+  "terminal.integrated.shellIntegration.history": 10000,
+  "terminal.integrated.enablePersistentSessions": false,
+  "terminal.integrated.env.osx": {
+    "HISTFILE": "/Users/aliaksandr/.zsh_history"
+  },
+  "gitlens.gitCommands.skipConfirmations": [
+    "fetch:command",
+    "stash-push:command",
+    "switch:command",
+    "stash-apply:command"
+  ],
+  "window.titleBarStyle": "custom",
+  "window.zoomLevel": 0.5,
+  "sync.autoUpload": true,
+  "sync.forceUpload": true
+}

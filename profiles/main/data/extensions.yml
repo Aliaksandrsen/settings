@@ -1,0 +1,100 @@
+disabled:
+  - id: atlassian.atlascode
+    uuid: ede0d8fe-2180-4cf5-85f5-075dc43d4b8f
+  - id: bradymholt.pgformatter
+    uuid: 849ffb6c-e755-4e6e-adc2-c33eaaf0d0fc
+  - id: ahmadalli.vscode-nginx-conf
+    uuid: 9a97436d-76aa-479c-8ae9-db2f400a7b04
+  - id: cssho.vscode-svgviewer
+    uuid: 6f5d4f30-67aa-4151-80c0-1bbe8ca5f9db
+  - id: diz.ecsstractor-port
+    uuid: 4cddf035-c6d4-49a5-961e-dbc89ebd1e58
+  - id: GitHub.copilot
+    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
+  - id: GitLab.gitlab-workflow
+    uuid: 01826860-d71c-4734-9cf8-dc1c07baa5f9
+  - id: johnpapa.vscode-peacock
+    uuid: 5a7017bf-c571-4d77-b902-6e56b16f539a
+  - id: jpoissonnier.vscode-styled-components
+    uuid: 06cc3e44-aedb-41b8-a4ea-29ebf3c491fd
+  - id: ms-vsliveshare.vsliveshare
+    uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
+  - id: Orta.vscode-jest
+    uuid: 7997a8ae-1fae-4022-b834-12f6318aeffd
+  - id: Prisma.prisma
+    uuid: 33ce9d6b-41cf-4972-a62b-386f7201981d
+  - id: redhat.vscode-yaml
+    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
+  - id: raynigon.nginx-formatter
+    uuid: 1a7b1f64-469d-4116-bb35-508ea3894f88
+  - id: richie5um2.vscode-sort-json
+    uuid: 3fb77af3-b8b3-4cb9-9137-f555bd80e2b1
+  - id: streetsidesoftware.code-spell-checker
+    uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
+  - id: streetsidesoftware.code-spell-checker-russian
+    uuid: 1ad9763e-4b6c-4eb4-b7af-2e5f0fdaaccb
+  - id: stylelint.vscode-stylelint
+    uuid: ec35b5a3-9802-4c68-b5ff-e85f19ec0977
+  - id: vsls-contrib.gistfs
+    uuid: 0cfb9d1d-3e59-4c36-a597-157b54e4442b
+  - id: william-voyek.vscode-nginx
+    uuid: 414b2873-c80e-4dc6-9031-bd185cfb3944
+enabled:
+  - id: aaron-bond.better-comments
+    uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
+  - id: alefragnani.Bookmarks
+    uuid: b689fcc8-d494-4dbf-a228-2c694a578afc
+  - id: ChakrounAnas.turbo-console-log
+    uuid: 6623619a-676d-4cde-943f-a3c193b44fc0
+  - id: CodeSandbox-io.codesandbox-projects
+    uuid: 2d8a982d-d254-418c-a19e-80efa6eb735f
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: EditorConfig.EditorConfig
+    uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: formulahendry.code-runner
+    uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
+  - id: fractalbrew.backticks
+    uuid: 529cfc85-4b7f-4cab-8be1-f451bc361fa6
+  - id: infeng.vscode-react-typescript
+    uuid: 128aec08-5c3d-473f-a233-67d15cbd42ee
+  - id: intellsmi.comment-translate
+    uuid: 85668beb-15e7-48c4-86a1-6a02f3133292
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: MS-CEINTL.vscode-language-pack-ru
+    uuid: 392df454-688b-4d61-8dba-a12956ac6448
+  - id: ms-vscode-remote.remote-containers
+    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
+  - id: ms-vscode-remote.remote-ssh
+    uuid: 607fd052-be03-4363-b657-2bd62b83d28a
+  - id: ms-vscode-remote.remote-ssh-edit
+    uuid: bfeaf631-bcff-4908-93ed-fda4ef9a0c5c
+  - id: ms-vscode-remote.remote-wsl
+    uuid: f0c5397b-d357-4197-99f0-cb4202f22818
+  - id: ms-vscode-remote.vscode-remote-extensionpack
+    uuid: 23d72dfc-8dd1-4e30-926e-8783b4378f13
+  - id: ms-vscode.remote-explorer
+    uuid: 11858313-52cc-4e57-b3e4-d7b65281e34b
+  - id: ms-vscode.remote-server
+    uuid: 105c0b3c-07a9-4156-a4fc-4141040eb07e
+  - id: naumovs.color-highlight
+    uuid: 121396ad-85a1-45ec-9fd1-d95028a847f5
+  - id: ribragimov.tabster
+    uuid: 94b0c3aa-2a11-4179-bf8b-0a991fb4858b
+  - id: ritwickdey.LiveServer
+    uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
+  - id: tombonnike.vscode-status-bar-format-toggle
+    uuid: 28fcf0b8-26a5-4e99-9b8d-02e990366c6f
+  - id: xabikos.JavaScriptSnippets
+    uuid: a2cec723-5349-460d-9de9-0fd1f8d3456f
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
